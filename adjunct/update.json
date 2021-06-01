@@ -1,10 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/adjunct",
   "1.16.5": {
-    "0.1.0": "Created mod", 
-    ...
+    "0.1.0": "Created mod"
   },
-  ...
   "promos": {
     "1.16.5-latest": "0.1.0",
     "1.16.5-recommended": "0.1.0"
