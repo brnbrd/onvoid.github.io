@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/auto-smelt",
+  "1.18.1": {
+    "1.0": "Added the Auto-Smelt Enchantment. Enchantment Descriptions mod supported."
+  },
+  "promos": {
+    "1.18.1-latest": "1.0",
+    "1.18.1-recommended": "1.0"
+  }
+}
