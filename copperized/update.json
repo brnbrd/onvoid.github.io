@@ -1,10 +1,12 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/copperized",
   "1.18.1": {
-    "1.0": "Added Copper Tools, Armor, Horse Armor, Doors, and Nugget."
+    "1.0": "Added Copper Tools, Armor, Horse Armor, Doors, and Nugget.",
+    "1.1": "Fixed Amethyst Cluster drops with Copper Pickaxe. Added compatibility tags.",
+    "1.2": "Fixed block drops. Added Copper Bars and Medium Weighted Copper Plate. Slightly tweaked armor item textures."
   },
   "promos": {
-    "1.18.1-latest": "1.0",
-    "1.18.1-recommended": "1.0"
+    "1.18.1-latest": "1.2",
+    "1.18.1-recommended": "1.2"
   }
 }
