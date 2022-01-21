@@ -3,9 +3,10 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/rotten-leather",
   "1.18.1": {
     "1.0": "Added Rotten Chunk, Sweetened Chunk, and Flesh Jerky."
+    "1.1": "Rotten Chunk and Flesh Jerky will now occasionally drop from zombies and spawn in certain chests."
   },
   "promos": {
-    "1.18.1-latest": "1.0",
-    "1.18.1-recommended": "1.0"
+    "1.18.1-latest": "1.1",
+    "1.18.1-recommended": "1.1"
   }
 }
