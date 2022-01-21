@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/alloy-furnace",
+  "1.18.1": {
+    "1.0": "Added the Alloy Furnace."
+  },
+  "promos": {
+    "1.18.1-latest": "1.0",
+    "1.18.1-recommended": "1.0"
+  }
+}
