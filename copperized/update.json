@@ -3,7 +3,8 @@
   "1.18.1": {
     "1.0": "Added Copper Tools, Armor, Horse Armor, Doors, and Nugget.",
     "1.1": "Fixed Amethyst Cluster drops with Copper Pickaxe. Added compatibility tags.",
-    "1.2": "Fixed block drops. Added Copper Bars and Medium Weighted Pressure Plate. Slightly tweaked armor item textures."
+    "1.2": "Fixed block drops. Added Copper Bars and Medium Weighted Pressure Plate. Slightly tweaked armor item textures.",
+    "1.3": "Made some copper items appear randomly in certain generated chests."
   },
   "promos": {
     "1.18.1-latest": "1.2",
