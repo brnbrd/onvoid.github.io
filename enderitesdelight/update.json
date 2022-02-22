@@ -2,10 +2,11 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/enderites-delight",
   "1.18.1": {
     "1.0": "Added Enderite Knife, Obsidian-Infused Enderite Knife.",
-    "1.1": "Fix compatibility issues with new versions of Enderite. Updated to Forge 39.0.75."
+    "1.1": "Fix compatibility issues with new versions of Enderite. Updated to Forge 39.0.75.",
+    "1.2": "Added translations for all dialects of English and Spanish. Removed patches for Enderite (now redundant). Updated to Forge 39.0.79."
   },
   "promos": {
-    "1.18.1-latest": "1.1",
-    "1.18.1-recommended": "1.1"
+    "1.18.1-latest": "1.2",
+    "1.18.1-recommended": "1.2"
   }
 }
