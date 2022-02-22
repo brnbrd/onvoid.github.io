@@ -1,0 +1,11 @@
+
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/more-horse-armor",
+  "1.18.1": {
+    "1.0": "Added Netherite Horse Armor. Added Enderite Horse Armor."
+  },
+  "promos": {
+    "1.18.1-latest": "1.0",
+    "1.18.1-recommended": "1.0"
+  }
+}
