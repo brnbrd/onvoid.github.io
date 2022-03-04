@@ -5,8 +5,13 @@
     "1.1": "Fix compatibility issues with new versions of Enderite. Updated to Forge 39.0.75.",
     "1.2": "Added translations for all dialects of English and Spanish. Removed patches for Enderite (now redundant). Updated to Forge 39.0.79."
   },
+  "1.16.5": {
+    "1.2": "Added Enderite Knife. Downgraded to Forge 36.2.20."
+  },
   "promos": {
     "1.18.1-latest": "1.2",
-    "1.18.1-recommended": "1.2"
+    "1.18.1-recommended": "1.2",
+    "1.16.5-latest": "1.2",
+    "1.16.5-recommended": "1.2"
   }
 }
