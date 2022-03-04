@@ -5,8 +5,13 @@
     "1.1": "Support smelting knife into nugget for mods: Copperized, CopperEquipment. Updated to Forge 39.0.19. New Logo.",
     "1.2": "Added translations for all dialects of English and Spanish. Updated to Forge 39.0.79."
   },
+  "1.16.5": {
+    "1.2": "Added Copper Knife. Downgraded to Forge 36.2.20."
+  },
   "promos": {
     "1.18.1-latest": "1.2",
-    "1.18.1-recommended": "1.2"
+    "1.18.1-recommended": "1.2",
+    "1.16.5-latest": "1.2",
+    "1.16.5-recommended": "1.2"
   }
 }
