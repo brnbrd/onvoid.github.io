@@ -4,8 +4,13 @@
     "1.0": "Added the Auto-Smelt enchantment. Enchantment Descriptions mod supported.",
     "1.1": "Auto-Smelt can now be used on axes and swords (killing mobs support). Now data driven."
   },
+  "1.18.2": {
+    "1.1": "Added the Auto-Smelt enchantment."
+  },
   "promos": {
     "1.18.1-latest": "1.1",
-    "1.18.1-recommended": "1.1"
+    "1.18.1-recommended": "1.1",
+    "1.18.2-latest": "1.1",
+    "1.18.2-recommended": "1.1"
   }
 }
