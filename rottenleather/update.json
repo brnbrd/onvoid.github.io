@@ -10,10 +10,15 @@
     "1.1": "Rotten Chunk and Flesh Jerky will now occasionally drop from zombies and spawn in certain chests.",
     "1.2": "Fixed Flesh Jerky recipe for cooking in Smoker and on a Campfire."
   },
+  "1.18.2": {
+    "1.2": "Added Rotten Chunk, Sweetened Chunk, and Flesh Jerky."
+  },
   "promos": {
-    "1.16.5-latest": "1.1",
-    "1.16.5-recommended": "1.1",
-    "1.18.1-latest": "1.1",
-    "1.18.1-recommended": "1.1"
+    "1.16.5-latest": "1.2",
+    "1.16.5-recommended": "1.2",
+    "1.18.1-latest": "1.2",
+    "1.18.1-recommended": "1.2",
+    "1.18.2-latest": "1.2",
+    "1.18.2-recommended": "1.2"
   }
 }
