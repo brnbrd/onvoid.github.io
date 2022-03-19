@@ -3,8 +3,13 @@
   "1.18.1": {
     "1.0": "Added bridge parts for Azalea and Flowering Azalea woods."
   },
+  "1.18.2": {
+    "1.0": "Added bridge parts for Azalea and Flowering Azalea woods."
+  },
   "promos": {
     "1.18.1-latest": "1.0",
-    "1.18.1-recommended": "1.0"
+    "1.18.1-recommended": "1.0",
+    "1.18.2-latest": "1.0",
+    "1.18.2-recommended": "1.0"
   }
 }
