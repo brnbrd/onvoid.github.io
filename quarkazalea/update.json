@@ -2,10 +2,16 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/better-quark-azalea",
   "1.18.1": {
     "1.0": "Added Quark blocks for Azalea and Flowering Azalea woods, along with crafting tables.",
-    "1.1": "Added boats for both wood types. Updated to final 1.18.1 Forge. Translations and cleanup."
+    "1.1": "Added boats for both wood types. Updated to final 1.18.1 Forge. Translations and cleanup.",
+    "1.2": "Added Blossom Crafting Table"
+  },
+  "1.18.2": {
+    "1.2": "Added Blossom Crafting Table"
   },
   "promos": {
-    "1.18.1-latest": "1.1",
-    "1.18.1-recommended": "1.1"
+    "1.18.1-latest": "1.2",
+    "1.18.1-recommended": "1.2",
+    "1.18.2-latest": "1.2",
+    "1.18.2-recommended": "1.2"
   }
 }
