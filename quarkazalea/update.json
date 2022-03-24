@@ -3,15 +3,16 @@
   "1.18.1": {
     "1.0": "Added Quark blocks for Azalea and Flowering Azalea woods, along with crafting tables.",
     "1.1": "Added boats for both wood types. Updated to final 1.18.1 Forge. Translations and cleanup.",
-    "1.2": "Added Blossom Crafting Table"
+    "1.2": "Added Blossom Crafting Table."
   },
   "1.18.2": {
-    "1.2": "Added Blossom Crafting Table"
+    "1.2": "Added Blossom Crafting Table.",
+    "1.3": "Added soft dependency back for More Crafting Tables."
   },
   "promos": {
     "1.18.1-latest": "1.2",
     "1.18.1-recommended": "1.2",
-    "1.18.2-latest": "1.2",
-    "1.18.2-recommended": "1.2"
+    "1.18.2-latest": "1.3",
+    "1.18.2-recommended": "1.3"
   }
 }
