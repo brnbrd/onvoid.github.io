@@ -5,7 +5,7 @@
     "1.1": "Auto-Smelt can now be used on axes and swords (killing mobs support). Now data driven."
   },
   "1.18.2": {
-    "1.1": "Added the Auto-Smelt enchantment."
+    "1.1": "Added the Auto-Smelt enchantment.",
     "1.2": "Fix crash with Forge 40.0.18+."
   },
   "promos": {
