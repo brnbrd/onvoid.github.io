@@ -1,0 +1,20 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/copper-drops",
+  "1.17.1": {
+    "1.0": "Decreased Copper Ore drops."
+  },
+  "1.18.1": {
+    "1.0": "Decreased Copper Ore drops."
+  },
+  "1.18.2": {
+    "1.0": "Decreased Copper Ore drops."
+  },
+  "promos": {
+    "1.17.1-latest": "1.0",
+    "1.17.1-recommended": "1.0",
+    "1.18.1-latest": "1.0",
+    "1.18.1-recommended": "1.0",
+    "1.18.2-latest": "1.0",
+    "1.18.2-recommended": "1.0"
+  }
+}
