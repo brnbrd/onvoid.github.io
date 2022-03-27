@@ -1,24 +1,27 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/copperized",
   "1.17.1": {
-    "2.0": "Added Copper Button. All blocks now oxidize with same eight variations as vanilla: (Unaffected, Exposed, Weathered, Oxidized, Waxed Unaffected, Waxed Exposed, Waxed Weathered, Waxed Oxidized). Slightly reduced loot found in chests."
+    "2.0": "Added Copper Button. All blocks now oxidize with same eight variations as vanilla: (Unaffected, Exposed, Weathered, Oxidized, Waxed Unaffected, Waxed Exposed, Waxed Weathered, Waxed Oxidized). Slightly reduced loot found in chests.",
+	"2.1": "Added missing waxing crafting recipes. Created a JEI Plugin displaying recipes for Oxidation, Waxing, and Axe Scraping."
   },
   "1.18.1": {
     "1.0": "Added Copper Tools, Armor, Horse Armor, Doors, and Nugget.",
     "1.1": "Fixed Amethyst Cluster drops with Copper Pickaxe. Added compatibility tags.",
     "1.2": "Fixed block drops. Added Copper Bars and Medium Weighted Pressure Plate. Slightly tweaked armor item textures.",
     "1.3": "Made some copper items appear randomly in certain generated chests. Updated to Forge 39.0.55.",
-    "2.0": "Added Copper Button. All blocks now oxidize with same eight variations as vanilla: (Unaffected, Exposed, Weathered, Oxidized, Waxed Unaffected, Waxed Exposed, Waxed Weathered, Waxed Oxidized). Slightly reduced loot found in chests."
+    "2.0": "Added Copper Button. All blocks now oxidize with same eight variations as vanilla: (Unaffected, Exposed, Weathered, Oxidized, Waxed Unaffected, Waxed Exposed, Waxed Weathered, Waxed Oxidized). Slightly reduced loot found in chests.",
+	"2.1": "Added missing waxing crafting recipes. Created a JEI Plugin displaying recipes for Oxidation, Waxing, and Axe Scraping."
   },
   "1.18.2": {
-    "2.0": "Added Copper Button. All blocks now oxidize with same eight variations as vanilla: (Unaffected, Exposed, Weathered, Oxidized, Waxed Unaffected, Waxed Exposed, Waxed Weathered, Waxed Oxidized). Slightly reduced loot found in chests."
+    "2.0": "Added Copper Button. All blocks now oxidize with same eight variations as vanilla: (Unaffected, Exposed, Weathered, Oxidized, Waxed Unaffected, Waxed Exposed, Waxed Weathered, Waxed Oxidized). Slightly reduced loot found in chests.",
+	"2.1": "Added missing waxing crafting recipes. Created a JEI Plugin displaying recipes for Oxidation, Waxing, and Axe Scraping."
   },
   "promos": {
-    "1.17.1-latest": "2.0",
-    "1.17.1-recommended": "2.0",
-    "1.18.1-latest": "2.0",
-    "1.18.1-recommended": "2.0",
-    "1.18.2-latest": "2.0",
-    "1.18.2-recommended": "2.0"
+    "1.17.1-latest": "2.1",
+    "1.17.1-recommended": "2.1",
+    "1.18.1-latest": "2.1",
+    "1.18.1-recommended": "2.1",
+    "1.18.2-latest": "2.1",
+    "1.18.2-recommended": "2.1"
   }
 }
