@@ -1,0 +1,11 @@
+
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/quarkologics",
+  "1.18.2": {
+    "1.0": "Added block variants for Azalea, Flowering Azalea, Coconut, and Walnut wood types."
+  },
+  "promos": {
+    "1.18.2-latest": "1.0",
+    "1.18.2-recommended": "1.0"
+  }
+}
