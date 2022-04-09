@@ -1,5 +1,8 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/coppers-delight",
+  "1.18.2": {
+    "1.2": "Updated to Forge 40.0.44."
+  },
   "1.18.1": {
     "1.0": "Added Copper Knife.",
     "1.1": "Support smelting knife into nugget for mods: Copperized, CopperEquipment. Updated to Forge 39.0.19. New Logo.",
@@ -9,6 +12,8 @@
     "1.2": "Added Copper Knife. Downgraded to Forge 36.2.20."
   },
   "promos": {
+    "1.18.2-latest": "1.2",
+    "1.18.2-recommended": "1.2",
     "1.18.1-latest": "1.2",
     "1.18.1-recommended": "1.2",
     "1.16.5-latest": "1.2",
