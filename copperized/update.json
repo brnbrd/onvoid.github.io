@@ -18,12 +18,18 @@
     "2.1": "Added missing waxing crafting recipes. Created a JEI Plugin displaying recipes for Oxidation, Waxing, and Axe Scraping.",
     "2.2": "Added Quark support for JEI Plugin."
   },
+  "1.19": {
+    "2.2": "Update to 1.19",
+    "2.3": "Update JEI Plugin to 11"
+  },
   "promos": {
     "1.17.1-latest": "2.1",
     "1.17.1-recommended": "2.1",
     "1.18.1-latest": "2.2",
     "1.18.1-recommended": "2.2",
     "1.18.2-latest": "2.2",
-    "1.18.2-recommended": "2.2"
+    "1.18.2-recommended": "2.2",
+    "1.19-latest": "2.3",
+    "1.19-recommended": "2.3"
   }
 }
