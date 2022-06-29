@@ -8,10 +8,15 @@
     "1.1": "Added the Auto-Smelt enchantment.",
     "1.2": "Fix crash with Forge 40.0.18+."
   },
+  "1.19": {
+    "1.2": "Update to 1.19."
+  },
   "promos": {
     "1.18.1-latest": "1.1",
     "1.18.1-recommended": "1.1",
     "1.18.2-latest": "1.2",
-    "1.18.2-recommended": "1.2"
+    "1.18.2-recommended": "1.2",
+    "1.19-latest": "1.2",
+    "1.19-recommended": "1.2"
   }
 }

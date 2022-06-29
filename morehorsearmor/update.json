@@ -6,12 +6,18 @@
     "1.1": "Updated Netherite Horse Armor item texture. Updated to Forge 39.0.88."
   },
   "1.18.2": {
-    "1.1": "Added Netherite Horse Armor. Added Enderite Horse Armor. Updated to Forge 40.0.32."
+    "1.1": "Added Netherite Horse Armor. Added Enderite Horse Armor. Updated to Forge 40.0.32.",
+    "1.2": "Added Amethyst and Black Opal Horse Armors."
+  },
+  "1.19": {
+    "1.2": "Added Amethyst and Black Opal Horse Armors."
   },
   "promos": {
     "1.18.1-latest": "1.1",
     "1.18.1-recommended": "1.1",
-    "1.18.2-latest": "1.1",
-    "1.18.2-recommended": "1.1"
+    "1.18.2-latest": "1.2",
+    "1.18.2-recommended": "1.2",
+    "1.19-latest": "1.2",
+    "1.19-recommended": "1.2"
   }
 }
