@@ -2,10 +2,11 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/delightful",
   "1.18.2": {
     "1.0": "Initial Release.",
-    "1.1": "Added Crab Rangoon, Prickly Pear Juice, Chunkwich, Tin Knife."
+    "1.1": "Added Crab Rangoon, Prickly Pear Juice, Chunkwich, Tin Knife.",
+    "1.2": "Added Silver & Brass Knives. Added Jelly Bottle."
   },
   "promos": {
-    "1.18.2-latest": "1.1",
-    "1.18.2-recommended": "1.1"
+    "1.18.2-latest": "1.2",
+    "1.18.2-recommended": "1.2"
   }
 }
