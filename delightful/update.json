@@ -8,10 +8,11 @@
     "1.4": "Added Nut Butter and Jelly Sandwich, Ender Nectar.",
     "1.5": "Added Quartz Cabinet. (Broken).",
     "1.5.1": "Fixed block drops for Quartz Cabinet. (Still broken).",
-    "1.5.2": "Actually fixed block drops for Quartz Cabinet."
+    "1.5.2": "Actually fixed block drops for Quartz Cabinet.",
+    "1.6": "Added Basalt Cabinet, Constantan Knife, Electrum Knife, Invar Knife, Lead Knife, Nickel Knife"
   },
   "promos": {
-    "1.18.2-latest": "1.5.2",
-    "1.18.2-recommended": "1.5.2"
+    "1.18.2-latest": "1.6",
+    "1.18.2-recommended": "1.6"
   }
 }
