@@ -10,10 +10,11 @@
     "1.5.1": "Fixed block drops for Quartz Cabinet. (Still broken).",
     "1.5.2": "Actually fixed block drops for Quartz Cabinet.",
     "1.6": "Added Basalt Cabinet, Constantan Knife, Electrum Knife, Invar Knife, Lead Knife, Nickel Knife.",
-    "1.7": "Added configuration file. Fixed some recipes and item properties."
+    "1.7": "Added configuration file. Fixed some recipes and item properties.",
+    "1.8": "Added Azalea Tea & Honey Glazed Walnut (Thanks snommersnommers!). Added Green Tea Leaf and Chunk Nugget."
   },
   "promos": {
-    "1.18.2-latest": "1.7",
-    "1.18.2-recommended": "1.7"
+    "1.18.2-latest": "1.8",
+    "1.18.2-recommended": "1.8"
   }
 }
