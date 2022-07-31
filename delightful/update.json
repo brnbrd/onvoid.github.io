@@ -11,10 +11,12 @@
     "1.5.2": "Actually fixed block drops for Quartz Cabinet.",
     "1.6": "Added Basalt Cabinet, Constantan Knife, Electrum Knife, Invar Knife, Lead Knife, Nickel Knife.",
     "1.7": "Added configuration file. Fixed some recipes and item properties.",
-    "1.8": "Added Azalea Tea & Honey Glazed Walnut (Thanks snommersnommers!). Added Green Tea Leaf and Chunk Nugget."
+    "1.8": "Added Azalea Tea & Honey Glazed Walnut (Thanks snommersnommers!). Added Green Tea Leaf and Chunk Nugget.",
+    "1.9": "Added Salmonberry, Matcha, Matcha Latte, Berry Matcha Latte, Animal Fat, Animal Oil Bottle.",
+    "1.10": "Added Cactus Flesh, Cactus Steak, Glow Jelly Bottle, Salmonberry Sack, Mini Melon, Lavender Tea, Chopped Clover, Field Salad, Rock Candy."
   },
   "promos": {
-    "1.18.2-latest": "1.8",
-    "1.18.2-recommended": "1.8"
+    "1.18.2-latest": "1.10",
+    "1.18.2-recommended": "1.10"
   }
 }
