@@ -13,10 +13,19 @@
     "1.7": "Added configuration file. Fixed some recipes and item properties.",
     "1.8": "Added Azalea Tea & Honey Glazed Walnut (Thanks snommersnommers!). Added Green Tea Leaf and Chunk Nugget.",
     "1.9": "Added Salmonberry, Matcha, Matcha Latte, Berry Matcha Latte, Animal Fat, Animal Oil Bottle.",
-    "1.10": "Added Cactus Flesh, Cactus Steak, Glow Jelly Bottle, Salmonberry Sack, Mini Melon, Lavender Tea, Chopped Clover, Field Salad, Rock Candy."
+    "1.10": "Added Cactus Flesh, Cactus Steak, Glow Jelly Bottle, Salmonberry Sack, Mini Melon, Lavender Tea, Chopped Clover, Field Salad, Rock Candy.",
+    "1.11": "Fix crash with some languages, add tag support for Sprout and other mods.",
+    "1.12": "Add support for Create's Rose Quartz. Fix some console logs.",
+    "2.0": "Added some compat mobs to fatty_animals tag. Add Twilight Forest's Torchberries to berries tag. Removed Cultural Delights recipe override."
+  },
+  "1.19": {
+    "2.0": "Updated to 1.19",
+    "2.1": "Added some compat mobs to fatty_animals tag. Add Twilight Forest's Torchberries to berries tag. Removed Cultural Delights recipe override."
   },
   "promos": {
-    "1.18.2-latest": "1.10",
-    "1.18.2-recommended": "1.10"
+    "1.18.2-latest": "2.0",
+    "1.18.2-recommended": "2.0",
+    "1.19-latest": "2.1",
+    "1.19-recommended": "2.1"
   }
 }
