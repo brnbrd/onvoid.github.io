@@ -20,12 +20,13 @@
   },
   "1.19": {
     "2.0": "Updated to 1.19",
-    "2.1": "Added some compat mobs to fatty_animals tag. Add Twilight Forest's Torchberries to berries tag. Removed Cultural Delights recipe override."
+    "2.1": "Added some compat mobs to fatty_animals tag. Add Twilight Forest's Torchberries to berries tag. Removed Cultural Delights recipe override.",
+    "2.2": "Added Acorn, Salmonberry Pips (for growing). More compat fatty_animals. Minor tag, loot modifier, and recipe fixes."
   },
   "promos": {
     "1.18.2-latest": "2.0",
     "1.18.2-recommended": "2.0",
-    "1.19-latest": "2.1",
-    "1.19-recommended": "2.1"
+    "1.19-latest": "2.2",
+    "1.19-recommended": "2.2"
   }
 }
